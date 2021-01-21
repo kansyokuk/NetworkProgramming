@@ -1,0 +1,20 @@
+{
+	"User_Info": {
+        "Myself": {
+			"name": "",
+			"code": "",
+			"menu_selection": ""
+		},
+
+		"Partner": {
+			"name": "",
+			"menu_selection": ""
+		}
+	},
+
+	"Message": {
+		"Narration": {
+			"msg_0": "bye"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+    "User_Info": {
+        "name": "",
+        "code": "",
+        "menu_selection": ""
+    },
+
+    "Message": {
+        "Login": {
+            "title": "-- login --",
+            "msg_0": "Please enter your name and password."
+        },
+
+        "Menu": {
+            "title": "-- menu --",
+            "msg_0": "Choose an operation from the following.\n[W]: write\n[R]: read\n[D]: delete\n[E] or [Another key]: exit"
+        },
+
+        "Write": {
+            "title": "-- write --",
+            "msg_0": "Enter your message.",
+            "msg_1": "Do you want to continue writing?\n[Y]: write\n[N] or [Another key]: menu"
+        },
+
+        "Read": {
+            "title": "-- read --",
+            "msg_0": "Reading now...",
+            "msg_1": "Do you want to continue reading?\n[Y]: read\n[N] or [Another key]: menu"
+        },
+
+        "Delete": {
+            "title": "-- delete --",
+            "msg_0": "Enter the thread number and password you wish to delete.",
+            "msg_1": "This is a non-existent thread number.",
+            "msg_2": "Successfully deleted.",
+            "msg_3": "The password is wrong.",
+            "msg_4": "Do you want to continue deleting?\n[Y]: delete\n[N] or [Another key]: menu"
+        },
+
+        "Exit": {
+            "title": "-- exit --",
+            "msg_0": "Exit the program."
+        }
+    }
+}

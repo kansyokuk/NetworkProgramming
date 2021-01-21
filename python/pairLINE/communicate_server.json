@@ -1,0 +1,37 @@
+{
+	"User_Info": {
+        "Myself": {
+			"name": "",
+			"code": "",
+			"menu_selection": ""
+		},
+
+		"Partner": {
+			"name": "",
+			"code": "",
+			"menu_selection": ""
+		}
+	},
+	
+	"Message": {
+		"Narration": {
+			"title": "-- Pair Communication Tool -- ",
+			"msg_0": "You are always connected with your partner. \nLet's start the conversation. ",
+			"msg_1": "Waiting for a partner now... ",
+			"msg_2": "Your partner has appeared. ",
+			"msg_3": "Type a message and press Enter to send it. ",
+			"msg_4": "bye"
+		},
+
+		"Login": {
+            "title": "-- login -- ",
+			"msg_0": "Please enter your name and password. ",
+            "msg_1": "The password is wrong. "
+		},
+		
+		"Exit": {
+            "title": "-- exit -- ",
+            "msg_0": "Exit the program. "
+        }
+	}
+}
